@@ -19,3 +19,37 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
 
+## Algunos de mi videos de YouTube:
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://youtu.be/RS4D3a7ZYW8">
+  		<img src="http://i3.ytimg.com/vi/RS4D3a7ZYW8/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/80g5A35_NOU">
+  		<img src="http://i3.ytimg.com/vi/80g5A35_NOU/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/7O5UF2em0MM">
+  		<img src="http://i3.ytimg.com/vi/7O5UF2em0MM/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://youtu.be/IP8qcw8YzQY">
+  		<img src="http://i3.ytimg.com/vi/IP8qcw8YzQY/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/jM1WZ0mX1w0">
+  		<img src="http://i3.ytimg.com/vi/jM1WZ0mX1w0/maxresdefault.jpg">
+	</a>
+	</td>
+</table>
+</table>
+
