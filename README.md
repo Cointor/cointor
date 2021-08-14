@@ -1,6 +1,5 @@
 <h1  style="#88e7dd" align="center">Cointor</h1> 
-<h3 align="center">Programo por diversión, Mi propósito ayudarte a aprender. :D</h3>
-<img src="https://cdn.discordapp.com/emojis/864313776051191848.png?v=1" withd="25px">
+<h3 align="center">Programo por diversión, Mi propósito ayudarte a aprender. :D</h3> <img src="https://cdn.discordapp.com/emojis/864313776051191848.png?v=1" width="35px">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cointor&show_icons=true&locale=es&theme=tokyonight" alt="cointor" /></p> 
 
 <h3 align="left">Redes sociales :</h3>
