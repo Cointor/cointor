@@ -19,6 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
 
+
+
 ## Algunos de mi videos de YouTube:
 
 <table style="width:100%">
