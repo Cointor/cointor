@@ -21,7 +21,6 @@
 
 
 
-## Algunos de mi videos de YouTube:
 
 <table style="width:100%">
   <tr>
