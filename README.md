@@ -53,5 +53,4 @@
 	</a>
 	</td>
 </table>
-</table>
 
