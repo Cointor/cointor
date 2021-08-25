@@ -1,13 +1,12 @@
 <h1  style="#88e7dd" align="center">Cointor</h1> 
-<h3 align="center">Programo por diversión, Mi propósito ayudarte a aprender. :D</h3> <img src="https://cdn.discordapp.com/emojis/864313776051191848.png?v=1" width="35px">
+<h3 align="center">Programo por diversión, Mi propósito ayudarte a aprender. :D</h3> <img src="https://cdn.discordapp.com/emojis/864313776051191848.png?v=1" width="35px"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cointor&show_icons=true&locale=es&theme=tokyonight" alt="cointor" /></p> 
 
 <h3 align="left">Redes sociales :</h3>
 <p align="left">
-<a href="https://instagram.com/el_pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_pereyra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC533ULEaGNCG01Ojv2Dtavw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="el cointor" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/pzHtcauuyZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/pzHtcauuyZ" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/el_pereyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_pereyra" height="30" width="40" /></a></p>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://www.cointor.cf/discord.html">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UC533ULEaGNCG01Ojv2Dtavw">
 
 <h2>Proyecto Actual</h2>
 <h4>Actualmente estoy desarrollando un proyecto junto a mi amigo Sasuke, El cual consiste en ayudar a los usuarios a crear su propio bot de discord siguiendo una guía la cual pueden leer usando el bot en nuestro servidor. </h4>
