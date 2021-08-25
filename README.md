@@ -32,8 +32,8 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </p>
-
-
+<h3>Algunos de mis videos de Youtube</h3>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UC533ULEaGNCG01Ojv2Dtavw">
 <table style="width:100%">
   <tr>
     <td>
@@ -64,8 +64,8 @@
 	</a>
 	</td>
 	 <td>
-	<a href="https://youtu.be/dl1krWdSz98">
-  		<img src="http://i3.ytimg.com/vi/dl1krWdSz98/maxresdefault.jpg">
+	<a href="https://youtu.be/buPBFFKUvT4">
+  		<img src="http://i3.ytimg.com/vi/buPBFFKUvT4/maxresdefault.jpg">
 	</a>
 	</td>
 	 
