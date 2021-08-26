@@ -70,4 +70,27 @@
 	</td>
 	 
 </table>
-
+<br>
+<h3>Amigos:</h3>
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://www.mikuoficial.ga/">
+  		<img src="https://cdn.discordapp.com/avatars/753769842506727504/a_1a51290dc9392b96b9a4f9a532f1463c.gif?size=1024" width="200px">
+		<p>*⋆⁎✩⋆𝕊𝕒𝕤𝕦𝕜𝕖 𝕦𝕔𝕙𝕚𝕙𝕒☆。*</p>
+	</a>
+	</td>
+    <td>
+	<a href="https://woks-web.rushercraft2.repl.co/">
+  		<img src="https://cdn.discordapp.com/avatars/777367944882552882/8b2d25592e581c0eb8a012076048387a.png?size=1024" width="200px">
+		<p>Woks</p>
+	</a>
+	</td>
+    <td>
+	<a href="https://github.com/socram03">
+  		<img src="https://cdn.discordapp.com/avatars/366779196975874049/24c05e2ef1222d8dd6bdad955b4c944a.png?size=1024" width="200px">
+		<p>Socram09</p>
+	</a>
+	</td>
+  </tr>
+</table>
