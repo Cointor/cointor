@@ -11,11 +11,11 @@
 <h2>Proyecto Actual</h2>
 <h4>Actualmente estoy desarrollando un proyecto junto a mi amigo Sasuke, El cual consiste en ayudar a los usuarios a crear su propio bot de discord siguiendo una guía la cual pueden leer usando el bot en nuestro servidor. </h4>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=cointor&repo=crea-tu-bot&theme=tokyonight" alt="cointor" /></p>
+<p><img href="https://github.com/Cointor/Crea-Tu-Bot" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=cointor&repo=crea-tu-bot&theme=tokyonight" alt="cointor" /></p>
 
 <h3 align="left">Idiomas:</h3>
 
-<p><img href="https://github.com/Cointor/Crea-Tu-Bot" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
