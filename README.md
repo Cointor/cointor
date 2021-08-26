@@ -15,7 +15,7 @@
 
 <h3 align="left">Idiomas:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
+<p><img href="https://github.com/Cointor/Crea-Tu-Bot" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cointor&show_icons=true&locale=es&layout&theme=tokyonight" alt="cointor" /></p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
