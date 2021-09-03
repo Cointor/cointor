@@ -88,7 +88,7 @@
 	</a>
 	</td>
     <td>
-	<a href="https://github.com/socram03">
+	<a href="https://socram.ga/">
   		<img src="https://cdn.discordapp.com/avatars/366779196975874049/24c05e2ef1222d8dd6bdad955b4c944a.png?size=1024" width="200px">
 		<p>Socram09</p>
 	</a>
